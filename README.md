@@ -1,3 +1,2 @@
 # a-start-
-m starting git 
-author - bitch 
+m starting git bitch 
